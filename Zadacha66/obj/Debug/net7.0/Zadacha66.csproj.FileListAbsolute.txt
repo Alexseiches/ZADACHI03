@@ -1,0 +1,14 @@
+/Users/alexseich/Desktop/Zadachi03/Zadacha66/bin/Debug/net7.0/Zadacha66
+/Users/alexseich/Desktop/Zadachi03/Zadacha66/bin/Debug/net7.0/Zadacha66.deps.json
+/Users/alexseich/Desktop/Zadachi03/Zadacha66/bin/Debug/net7.0/Zadacha66.runtimeconfig.json
+/Users/alexseich/Desktop/Zadachi03/Zadacha66/bin/Debug/net7.0/Zadacha66.dll
+/Users/alexseich/Desktop/Zadachi03/Zadacha66/bin/Debug/net7.0/Zadacha66.pdb
+/Users/alexseich/Desktop/Zadachi03/Zadacha66/obj/Debug/net7.0/Zadacha66.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexseich/Desktop/Zadachi03/Zadacha66/obj/Debug/net7.0/Zadacha66.AssemblyInfoInputs.cache
+/Users/alexseich/Desktop/Zadachi03/Zadacha66/obj/Debug/net7.0/Zadacha66.AssemblyInfo.cs
+/Users/alexseich/Desktop/Zadachi03/Zadacha66/obj/Debug/net7.0/Zadacha66.csproj.CoreCompileInputs.cache
+/Users/alexseich/Desktop/Zadachi03/Zadacha66/obj/Debug/net7.0/Zadacha66.dll
+/Users/alexseich/Desktop/Zadachi03/Zadacha66/obj/Debug/net7.0/refint/Zadacha66.dll
+/Users/alexseich/Desktop/Zadachi03/Zadacha66/obj/Debug/net7.0/Zadacha66.pdb
+/Users/alexseich/Desktop/Zadachi03/Zadacha66/obj/Debug/net7.0/Zadacha66.genruntimeconfig.cache
+/Users/alexseich/Desktop/Zadachi03/Zadacha66/obj/Debug/net7.0/ref/Zadacha66.dll
